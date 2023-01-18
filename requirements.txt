@@ -1,0 +1,11 @@
+uvicorn~=0.20.0
+fastapi~=0.89.1
+python-dotenv~=0.21.0
+python-multipart
+SQLAlchemy>=2.0.0rc2
+requests~=2.28.2
+pydantic~=1.10.4
+starlette~=0.22.0
+slideio~=2.0.0
+matplotlib~=3.6.3
+aiosqlite
